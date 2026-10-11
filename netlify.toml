@@ -1,0 +1,7 @@
+
+[build]
+  publish = "public"
+
+[[edge_functions]]
+  function = "birthday-auth"
+  path = "/*"
